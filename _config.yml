@@ -1,9 +1,9 @@
 # Site settings
-name: volietXu's blog
+name: Voliet's blog
 email: xuzh9310@163.com
-author: xx
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
+author: Voliet
+# url: http://www.hifreud.com
+# resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/voiletXu/
 baseurl: "/voiletXu.github.io"
 description: Code is Poetry, Poetry is Beautiful!
@@ -17,7 +17,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: luoyan35714
+# github_username: luoyan35714
 
 # Build settings
 markdown: kramdown
